@@ -4,8 +4,8 @@
 This repo is a personal collection of my Java practice, problem-solving journey, and notes as I prepare for coding interviews and strengthen my fundamentals.*
 
 **🔥 What’s Inside**
-
-*✅ Java Basics – Core Java concepts (basics.java, Main.java)
+*<pre>
+✅ Java Basics – Core Java concepts (basics.java, Main.java)
 ✅ Recursion – Problems & patterns (recursion/)
 ✅ Bitwise Operations – Tricks & optimizations (bitwise/)
 ✅ Math for DSA – Number theory, modular arithmetic (math_for_dsa/, number_system_math_for_dsa/)
@@ -14,17 +14,20 @@ This repo is a personal collection of my Java practice, problem-solving journey,
 ✅ Searching – Binary search & variations (search/)
 ✅ Linked List – Implementations & problems (linked_list/)
 ✅ Trees & Graphs – (To be added 🔜 for advanced DSA practice)*
+</pre>
 
 **🎯 Purpose of this Repository**
-
-*To track my preparation progress in Java + DSA
+*<pre>
+To track my preparation progress in Java + DSA
 To share my learning journey with others preparing for coding interviews
 To serve as my reference notes for quick revision*
+</pre>
 
 **🛠️ Tech Used**
-
-*Language: Java ☕
+*<pre>
+Language: Java ☕
 Platform: IntelliJ*
+</pre>
 
 **📂 Folder Structure**
 
@@ -57,14 +60,17 @@ My-DSA-with-JAVA-preparation
 *4. Explore and run any program*
 
 **✨ Highlights of My Preparation**
-
-*1. Writing clean, well-structured code
+*<pre>
+1. Writing clean, well-structured code
 2. Practicing multiple approaches for the same problem
 3. Focusing on time & space complexity optimization
-4. Preparing with interview-style problems*
+4. Preparing with interview-style problem.
+</pre>
+
 
 **🤝 Contributing**
-
-*This repo is mostly my personal preparation log, but if you have better approaches, optimizations, or suggestions, feel free to:
+*<pre>
+This repo is mostly my personal preparation log, but if you have better approaches, optimizations, or suggestions, feel free to:
 ⭐ Star the repo if you find it helpful
 📝 Open issues or pull requests with improvements*
+</pre>
